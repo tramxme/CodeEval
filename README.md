@@ -3,5 +3,5 @@
 
 Completed:
 - Easy    : 77/82
-- Moderate: 31/81
+- Moderate: 33/81
 - Hard    : 6/77
